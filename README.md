@@ -1,2 +1,2 @@
 # scriptpatch
-this is null patch from www.nullpro.net
+this is null patch from https://nullpro.net
